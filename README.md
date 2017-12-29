@@ -1,2 +1,2 @@
 # Sparta-Plan
-AP Project Beta Sparta Planner
+My first project: Sparta Planner
